@@ -1,8 +1,6 @@
-<h1 align="center">Hello Folks, I'm Karthikeyan K </h1>
+<h1 align="center">Hello Folks, I'm Karthikeyan K <img src="wave.gif" height = "30px" width="30px"></h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1080&height=80&lines=Student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Pythonista+%F0%9F%90%8D%E2%80%8D%F0%9F%92%BB;AI+%26+ML+%F0%9F%A4%96)](https://git.io/typing-svg)
-
-
 
 <hr>
 <h2 align="center">About Me 👨🏻‍💻</h2>
@@ -28,6 +26,7 @@ am an open-minded person who loves to work with new people.</h4>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&05122A,svg?style=flat&&logo=Canva&logoColor=white)&nbsp;
 
 <h2 align="center">Github Statistics</h2>
 <hr>
