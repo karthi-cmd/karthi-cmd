@@ -11,7 +11,7 @@ curious about learning new technologies. I'm a good team worker with good leader
 qualities. I'm strategic about setting my goals and achieving them within the time limit. I
 am an open-minded person who loves to work with new people.</h4>
 
-  <h3 align="center">✉️ Email - <a href="mailto:karthikeyan.kcse2020@gmail.com">karthikeyan.kcse2020@gmail.com</a> <br> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&&logo=linkedin&logoColor=white"> <a href="linkedin.com/in/karthikeyan-k8">Linkedin profile</a> </h3>
+  <h3 align="center">✉️ Email - <a href="mailto:karthikeyan.kcse2020@gmail.com">karthikeyan.kcse2020@gmail.com</a> <br> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&&logo=linkedin&logoColor=white"> <a href="https://www.linkedin.com/in/karthikeyan-k8/">Linkedin profile</a> </h3>
 
 <h2 align="center">Languages & Tools </h2>
 
